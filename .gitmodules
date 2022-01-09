@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/skmnu5099/skmnu5099.github.io.git
+	branch = master
