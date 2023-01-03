@@ -83,4 +83,4 @@ My research interests lie in the interdisciplinary area of Social Data Science, 
 I am also interested in the broad areas of Science of Science where I study the global landscape of scientific research funding, publications and their interplay; risk taking behavior, the impact of success or failure on professional career, and various aspects of Open Science Communication – Citation bias and inclusivity, Open Peer Review etc.
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_suman.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
