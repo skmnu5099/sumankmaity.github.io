@@ -13,11 +13,11 @@ organizations:
   url: https://web.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human centered Data Science, Computational Social Science, Science of Science, Machine Learning and Computational Linguistics
+bio: My research interests include Social Data Science, Computational Social Science, Science of Science, Machine Learning and Computational Linguistics
 
 # Interests to show in About widget
 interests:
-- Human centered Data  Science
+- Social Data Science
 - Computational Social Science
 - Science of Science
 - Machine Learning
@@ -78,7 +78,9 @@ highlight_name: false
 I am currently a postdoctoral research associate at the MIT Brain and Cognitive Sciences (BCS) and MIT Center for Research on Equitable and Open Scholarship (CREOS) hosted by {{< staticref "http://www.mit.edu/~rplevy/" >}}Prof. Roger Levy{{< /staticref >}}. I was previously a postdoctoral fellow at Center for Science of Science and Innovation (CSSI) and The Northwestern Institute on Complex Systems 
 (NICO), Northwestern University working with {{< staticref "https://www.dashunwang.com/" >}}Prof. Dashun Wang{{< /staticref >}}. I received my PhD in Computer Science and Engineering from Indian Institute of Technology Kharagpur, where I was advised by  {{< staticref "https://cse.iitkgp.ac.in/~animeshm/" >}}Prof. Animesh Mukherjee{{< /staticref >}}. I was also the recipient of IBM PhD Fellowship and Microsoft Research India PhD Fellowship Award.
 
-My research interests lie in the interdisciplinary area of Human-centered Data Science where I study the mechanisms and dynamics of various complex systems. In particular, my major research focus is on studying the impact of success and failure on professional careers; the global landscape of science fundings, publications, and their interplay; and several aspects of Open Science. I also aim to design tools to better understand social phenomena which are aggravated by the misuse of social media platforms (e.g., detection and mitigation of hate speech and incivility).
+My research interests lie in the interdisciplinary area of Social Data Science, where I investigate the mechanisms and dynamics of complex social systems. My research on social media focuses on understanding how various sociolinguistic phenomena emerge, are adopted; used and misused. I have contributed in understanding the detection of hate content, misinformation and adoption of mitigation strategies to stop spread of negativity on social media platforms. 
+
+I am also interested in the broad areas of Science of Science where I study the global landscape of scientific research funding, publications and their interplay; risk taking behavior, the impact of success or failure on professional career, and various aspects of Open Science Communication – Citation bias and inclusivity, Open Peer Review etc.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_suman.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_suman.pdf" "newtab" >}}resumé{{< /staticref >}}.
